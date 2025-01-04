@@ -6,8 +6,32 @@ Bem-vindo ao meu repositório! Estou seguindo uma **trilha de aprendizado** comp
 
 ### 1. **[Computer Science Fundamentals - Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)**
 - **Status**: ✅ Concluído Unidade 1 | 🎯 Objetivo: Concluir até a Unidade 4
-- **O que estou aprendendo**: Conceitos fundamentais de ciência da computação, como **informação digital**, **números binários**, **compressão de dados**, e **direitos autorais**.
-- [Link para o curso na Khan Academy](https://www.khanacademy.org/computing/computer-science)
+- **O que estou aprendendo atualmente:
+- **Unidade 1: Informação Digital** ✅ Concluído 
+  - **Unit Mastery**: 88%
+  - Tópicos abordados:
+    - Bits e bytes
+    - Números binários
+    - Limitações do armazenamento de números
+    - Armazenando texto em binário
+    - Convertendo dados analógicos em binário
+    - Compressão de dados sem perdas
+    - Compressão de dados com perdas
+    - Direitos autorais e licenças digitais
+
+Meu objetivo é continuar meu progresso até a **Unidade 4**, que inclui os seguintes módulos:
+
+#### **Unidade 2: A Internet**
+- Introdução à Internet
+- Conexão de redes
+- Protocolos da Web e mais.
+
+#### **Unidade 3: Programação**
+- Variáveis, Condicionais, Listas e Algoritmos básicos.
+
+#### **Unidade 4: Algoritmos**
+- Desenvolvimento e avaliação de algoritmos
+- Computação paralela e distribuída.
 
 ### 2. **Beginners Python**
 - **Status**: 🎯 Em progresso
